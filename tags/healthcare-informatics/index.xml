@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>healthcare informatics on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/tags/healthcare-informatics/</link>
+    <description>Recent content in healthcare informatics on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://crherlihy.github.io/tags/healthcare-informatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chest X-ray Disease Diagnosis with Deep Convolutional Neural Networks</title>
+      <link>https://crherlihy.github.io/project/chestxray/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/chestxray/</guid>
+      <description>PyTorch-based pipeline to use CNNs to detect and localize the 14 thoracic pathologies present in the NIH Chest X-ray dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

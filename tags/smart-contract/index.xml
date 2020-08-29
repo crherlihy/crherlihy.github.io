@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart contract on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/tags/smart-contract/</link>
+    <description>Recent content in smart contract on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://crherlihy.github.io/tags/smart-contract/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain Platform to Facilitate Patient-Directed Record Sharing</title>
+      <link>https://crherlihy.github.io/project/blockchainforhealthrecords/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/blockchainforhealthrecords/</guid>
+      <description>An Ethereum-based prototype platform to facilitate patient-directed provider-to-provider record sharing.</description>
+    </item>
+    
+  </channel>
+</rss>

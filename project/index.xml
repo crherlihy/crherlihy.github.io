@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/project/</link>
+    <description>Recent content in Projects on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://crherlihy.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ClarityNLP</title>
+      <link>https://crherlihy.github.io/project/claritynlp/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/claritynlp/</guid>
+      <description>An open-source NLP framework for clinical phenotyping.</description>
+    </item>
+    
+    <item>
+      <title>Automating Scientific Knowledge Extraction (ASKE)</title>
+      <link>https://crherlihy.github.io/project/aske/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/aske/</guid>
+      <description>Extraction and graph-based representation of scientific model components for the purpose of metamodel generation.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Platform to Facilitate Patient-Directed Record Sharing</title>
+      <link>https://crherlihy.github.io/project/blockchainforhealthrecords/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/blockchainforhealthrecords/</guid>
+      <description>An Ethereum-based prototype platform to facilitate patient-directed provider-to-provider record sharing.</description>
+    </item>
+    
+    <item>
+      <title>Chest X-ray Disease Diagnosis with Deep Convolutional Neural Networks</title>
+      <link>https://crherlihy.github.io/project/chestxray/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/chestxray/</guid>
+      <description>PyTorch-based pipeline to use CNNs to detect and localize the 14 thoracic pathologies present in the NIH Chest X-ray dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

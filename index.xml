@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Herlihy on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/</link>
+    <description>Recent content in Christine Herlihy on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://crherlihy.github.io/project/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://crherlihy.github.io/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://crherlihy.github.io/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://crherlihy.github.io/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
