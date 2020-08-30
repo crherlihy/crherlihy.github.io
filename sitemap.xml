@@ -1,89 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>https://crherlihy.github.io/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://crherlihy.github.io/project/claritynlp/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/computational-phenotyping/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/feature-engineering/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/graduate-coursework/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/health-informatics/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/nlp/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/project/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/python/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
     </url>
     
@@ -123,14 +44,6 @@
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/blockchain/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://crherlihy.github.io/project/blockchainforhealthrecords/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -147,24 +60,17 @@
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/data-privacy/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>https://crherlihy.github.io/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/ehr/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>https://crherlihy.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -173,6 +79,105 @@
     
       <loc>https://crherlihy.github.io/tags/ethereum/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/project/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/blockchain/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/computational-phenotyping/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/data-privacy/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/ehr/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/feature-engineering/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/graduate-coursework/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/health-informatics/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -181,6 +186,7 @@
     
       <loc>https://crherlihy.github.io/tags/healthcare-informatics/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -189,6 +195,7 @@
     
       <loc>https://crherlihy.github.io/tags/julia/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -197,6 +204,16 @@
     
       <loc>https://crherlihy.github.io/tags/knowledge-graph/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -205,6 +222,7 @@
     
       <loc>https://crherlihy.github.io/tags/metamodeling/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -213,6 +231,25 @@
     
       <loc>https://crherlihy.github.io/tags/multimodal-information/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/nlp/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/python/</loc>
+      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -221,6 +258,7 @@
     
       <loc>https://crherlihy.github.io/tags/scientific-knowledge/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -229,20 +267,7 @@
     
       <loc>https://crherlihy.github.io/tags/smart-contract/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/categories/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/publication_types/</loc>
+      <priority>0</priority>
     </url>
     
   

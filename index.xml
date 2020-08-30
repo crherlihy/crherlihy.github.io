@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christine Herlihy on Christine Herlihy</title>
@@ -6,43 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
-      <link>https://crherlihy.github.io/project/</link>
+      <title>ClarityNLP</title>
+      <link>https://crherlihy.github.io/project/claritynlp/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://crherlihy.github.io/project/</guid>
-      <description></description>
+      <guid>https://crherlihy.github.io/project/claritynlp/</guid>
+      <description>&lt;p&gt;The objective of this project is to develop an open-source NLP platform capable of ingesting structured and unstructured patient-level data and notes, and extracting clinically relevant features for the purpose of determining eligibility for clinical trials, constructing reproducible, computational phenotypes, and building patient-level predictive models.&lt;/p&gt;
+
+&lt;p&gt;I am currently focused on integrating supervised and unsupervised machine learning techniques, including non-negative matrix factorization for the purpose of topic modeling, and explore the extent to which real-valued, vector based representations of unstructured texts (e.g., patient notes, clinical trial inclusion criteria; user-generated queries, etc.) can be used for dimesionality reduction and/or standardized evaluation of semantically similar documents.&lt;/p&gt;
+
+&lt;p&gt;During the Fall 2018 semester, as a student in CS 8803: Data Analytics Using Deep Learning, I had the opportunity to work with my colleague, classmate (and lead ClarityNLP dev!) Charity Hilton on optimizing portions of this platform. Our &lt;a href=&#34;cs8803_final_paper.pdf&#34; target=&#34;_blank&#34;&gt;final paper&lt;/a&gt; outlines our approach and presents our empirical results. We plan to integrate a subset of &lt;a href=&#34;https://github.com/cahilton/ClarityNLPOptimized&#34; target=&#34;_blank&#34;&gt;our improvements&lt;/a&gt; soon.&lt;/p&gt;
+
+&lt;p&gt;This project is under active development, and we host bi-weekly &lt;a href=&#34;https://github.com/ClarityNLP/ClarityNLP/tree/master/notebooks/cooking&#34; target=&#34;_blank&#34;&gt;Cooking with ClarityNLP&lt;/a&gt; tutorial sessions, which you can join in real-time via webex; Jupyter notebooks and recordings from past sessions are also posted. We welcome questions and suggestions for future sessions via Twitter (use the hashtag &lt;a href=&#34;https://twitter.com/hashtag/cookingWithClarityNLP?src=hash&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;#cookingWithClarityNLP&lt;/a&gt;), &lt;a href=&#34;https://github.com/ClarityNLP/ClarityNLP&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, or &lt;a href=&#34;https://join.slack.com/t/claritynlp/shared_invite/enQtNTE5NTUzNzk4MTk5LTFmNWY1NWVmZTA4Yjc5MDUwNTRhZTBmNTA0MWM0ZDNmYjdlNTAzYmViYzAzMTkwZDkzODA2YTJhYzQ1ZTliZTQ&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://crherlihy.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Automating Scientific Knowledge Extraction (ASKE)</title>
+      <link>https://crherlihy.github.io/project/aske/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://crherlihy.github.io/post/</guid>
-      <description></description>
+      <guid>https://crherlihy.github.io/project/aske/</guid>
+      <description>&lt;p&gt;The goal of this DARPA project is to develop an open-source information extraction pipeline that can be used to ingest epidemiology papers and associated source code repositories, extract entities that represent scientific model concepts (e.g., model parameters, functions, causal relationships, etc.), and use these entities to construct a semantic knowledge graph, that can be traversed to create meta-models (e.g., novel combinations/parameterizations of modeling concepts), and/or probablistically reason about how to go from a set of known input(s) to a set of unknown but abstractly identifiable, unitful output(s).&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://crherlihy.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Blockchain Platform to Facilitate Patient-Directed Record Sharing</title>
+      <link>https://crherlihy.github.io/project/blockchainforhealthrecords/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://crherlihy.github.io/publication/</guid>
-      <description></description>
+      <guid>https://crherlihy.github.io/project/blockchainforhealthrecords/</guid>
+      <description>&lt;p&gt;The objective of this GTRI HIVE $25K seed grant project was to develop a decentralized system to facilitate patient-directed provider-to-provider electronic medical record sharing. This required me to solve two related problems: (1) patient matching across EHRs, given the use of inconsistent identifiers; and (2) data transfer in the (potential) absence of provider-to-provider joint database access.&lt;/p&gt;
+
+&lt;p&gt;The prototype I developed involves representing patients, healthcare providers, and patient-designated stakeholders as nodes on a blockchain network, conducting pairwise cryptographic handshakes, and then allowing them to interact with a smart contract that resembles an escrow account, to facilitate patient-directed provider-to-provider record sharing in the absence of universal patient IDs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://crherlihy.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Chest X-ray Disease Diagnosis with Deep Convolutional Neural Networks</title>
+      <link>https://crherlihy.github.io/project/chestxray/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://crherlihy.github.io/talk/</guid>
-      <description></description>
+      <guid>https://crherlihy.github.io/project/chestxray/</guid>
+      <description>&lt;p&gt;I completed this project in conjunction with my graduate coursework as a student in &lt;a href=&#34;http://www.sunlab.org/teaching/cse6250/spring2018/&#34; target=&#34;_blank&#34;&gt;CSE 6250: Big Data Analytics for Healthcare&lt;/a&gt;. I worked with my classmates, Charity Hilton and Kausar Mukadam, to develop a PyTorch-based pipeline to use CNNs to detect and localize the 14 thoracic pathologies present in the &lt;a href=&#34;https://www.kaggle.com/nih-chest-xrays/data&#34; target=&#34;_blank&#34;&gt;NIH Chest X-ray dataset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&#34;cse6250_final_report.pdf&#34; target=&#34;_blank&#34;&gt;final paper&lt;/a&gt; outlines &lt;a href=&#34;https://github.gatech.edu/kmukadam3/ChestXRay&#34; target=&#34;_blank&#34;&gt;our approach&lt;/a&gt; and presents our empirical results.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

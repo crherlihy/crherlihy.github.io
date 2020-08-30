@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graduate coursework on Christine Herlihy</title>
@@ -18,7 +18,8 @@
       <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://crherlihy.github.io/project/claritynlp/</guid>
-      <description>An open-source NLP framework for clinical phenotyping.</description>
+      <description>The objective of this project is to develop an open-source NLP platform capable of ingesting structured and unstructured patient-level data and notes, and extracting clinically relevant features for the purpose of determining eligibility for clinical trials, constructing reproducible, computational phenotypes, and building patient-level predictive models.
+I am currently focused on integrating supervised and unsupervised machine learning techniques, including non-negative matrix factorization for the purpose of topic modeling, and explore the extent to which real-valued, vector based representations of unstructured texts (e.</description>
     </item>
     
     <item>
@@ -27,7 +28,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/project/chestxray/</guid>
-      <description>PyTorch-based pipeline to use CNNs to detect and localize the 14 thoracic pathologies present in the NIH Chest X-ray dataset.</description>
+      <description>I completed this project in conjunction with my graduate coursework as a student in CSE 6250: Big Data Analytics for Healthcare. I worked with my classmates, Charity Hilton and Kausar Mukadam, to develop a PyTorch-based pipeline to use CNNs to detect and localize the 14 thoracic pathologies present in the NIH Chest X-ray dataset.
+Our final paper outlines our approach and presents our empirical results.</description>
     </item>
     
   </channel>

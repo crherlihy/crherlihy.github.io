@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>knowledge graph on Christine Herlihy</title>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/project/aske/</guid>
-      <description>Extraction and graph-based representation of scientific model components for the purpose of metamodel generation.</description>
+      <description>The goal of this DARPA project is to develop an open-source information extraction pipeline that can be used to ingest epidemiology papers and associated source code repositories, extract entities that represent scientific model concepts (e.g., model parameters, functions, causal relationships, etc.), and use these entities to construct a semantic knowledge graph, that can be traversed to create meta-models (e.g., novel combinations/parameterizations of modeling concepts), and/or probablistically reason about how to go from a set of known input(s) to a set of unknown but abstractly identifiable, unitful output(s).</description>
     </item>
     
   </channel>

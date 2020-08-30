@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data privacy on Christine Herlihy</title>
@@ -18,7 +18,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/project/blockchainforhealthrecords/</guid>
-      <description>An Ethereum-based prototype platform to facilitate patient-directed provider-to-provider record sharing.</description>
+      <description>The objective of this GTRI HIVE $25K seed grant project was to develop a decentralized system to facilitate patient-directed provider-to-provider electronic medical record sharing. This required me to solve two related problems: (1) patient matching across EHRs, given the use of inconsistent identifiers; and (2) data transfer in the (potential) absence of provider-to-provider joint database access.
+The prototype I developed involves representing patients, healthcare providers, and patient-designated stakeholders as nodes on a blockchain network, conducting pairwise cryptographic handshakes, and then allowing them to interact with a smart contract that resembles an escrow account, to facilitate patient-directed provider-to-provider record sharing in the absence of universal patient IDs.</description>
     </item>
     
   </channel>
