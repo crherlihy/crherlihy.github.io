@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication/fair_rmab/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/publication/mednli/</loc>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/project/claritynlp/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
     </url>
@@ -60,6 +76,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication_types/3/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -96,6 +121,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -157,6 +183,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/fairness/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/feature-engineering/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -177,6 +212,15 @@
     
       <loc>https://crherlihy.github.io/tags/health-informatics/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/healthcare/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -256,8 +300,35 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/resource-allocation/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/restless-bandits/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/scientific-knowledge/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/sequential-decision-making/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

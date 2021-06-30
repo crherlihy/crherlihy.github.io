@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Christine Herlihy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://crherlihy.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -36,8 +36,17 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/home/about/</guid>
-      <description>Biography I am researcher, data scientist, and Georgia Tech MSCS alumna. My areas of focus include: NLP, machine learning, and graphical modeling for the purpose of: (1) multi-modal information extraction and reconciliation; and (2) the development of explainable, hierarchical predictive models, in which micro-level behaviors influence, and are influenced by, macro-level trends.
-I am particularly interested in how computational methods and distributed systems can be used to analyze and solve coordination problems and market failures, and/or identify optimal corrective interventions.</description>
+      <description>About Me I am a researcher and CS PhD student at the University of Maryland, College Park, where I am advised by John Dickerson and get to collaborate with awesome labmates. My research interests include: sequential and combinatorial decision-making under uncertainty, algorithmic fairness, and knowledge representation and reasoning in the clinical domain.
+Prior to UMD, I completed my MS in Computer Science with a concentration in Machine Learning at Georgia Tech while working as a research scientist at the Georgia Tech Research Institute.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://crherlihy.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/home/publications/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,11 +59,11 @@ I am particularly interested in how computational methods and distributed system
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>https://crherlihy.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Selected Projects</title>
+      <link>https://crherlihy.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://crherlihy.github.io/home/experience/</guid>
+      <guid>https://crherlihy.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -77,15 +86,6 @@ I am particularly interested in how computational methods and distributed system
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://crherlihy.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://crherlihy.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Talks</title>
       <link>https://crherlihy.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -104,20 +104,20 @@ I am particularly interested in how computational methods and distributed system
     </item>
     
     <item>
+      <title>Experience</title>
+      <link>https://crherlihy.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crherlihy.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>https://crherlihy.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Projects</title>
-      <link>https://crherlihy.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://crherlihy.github.io/home/projects/</guid>
       <description></description>
     </item>
     
