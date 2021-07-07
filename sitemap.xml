@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication/semanticmodels/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/project/claritynlp/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
     </url>
@@ -76,6 +84,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication_types/1/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/publication_types/3/</loc>
       <lastmod>2021-06-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -121,7 +138,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,8 +155,26 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/applied-category-theory/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/blockchain/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/compositional-modeling/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -238,7 +273,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/julia/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -265,7 +300,25 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/metamodeling/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/model-generation/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/model-semantics/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -318,8 +371,26 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/scientific-computing/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/scientific-knowledge/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/scientific-knowledge-mining/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

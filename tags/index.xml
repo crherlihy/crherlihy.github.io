@@ -22,11 +22,29 @@
     </item>
     
     <item>
+      <title>applied category theory</title>
+      <link>https://crherlihy.github.io/tags/applied-category-theory/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/applied-category-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blockchain</title>
       <link>https://crherlihy.github.io/tags/blockchain/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compositional modeling</title>
+      <link>https://crherlihy.github.io/tags/compositional-modeling/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/compositional-modeling/</guid>
       <description></description>
     </item>
     
@@ -123,7 +141,7 @@
     <item>
       <title>julia</title>
       <link>https://crherlihy.github.io/tags/julia/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/julia/</guid>
       <description></description>
@@ -150,9 +168,27 @@
     <item>
       <title>metamodeling</title>
       <link>https://crherlihy.github.io/tags/metamodeling/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/metamodeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model generation</title>
+      <link>https://crherlihy.github.io/tags/model-generation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/model-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model semantics</title>
+      <link>https://crherlihy.github.io/tags/model-semantics/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/model-semantics/</guid>
       <description></description>
     </item>
     
@@ -202,11 +238,29 @@
     </item>
     
     <item>
+      <title>scientific computing</title>
+      <link>https://crherlihy.github.io/tags/scientific-computing/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/scientific-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>scientific knowledge</title>
       <link>https://crherlihy.github.io/tags/scientific-knowledge/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/scientific-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific knowledge mining</title>
+      <link>https://crherlihy.github.io/tags/scientific-knowledge-mining/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/scientific-knowledge-mining/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://crherlihy.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Compositional Framework for Scientific Model Augmentation</title>
+      <link>https://crherlihy.github.io/publication/semanticmodels/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/publication/semanticmodels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

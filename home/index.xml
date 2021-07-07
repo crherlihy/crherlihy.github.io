@@ -41,11 +41,20 @@ Prior to UMD, I completed my MS in Computer Science with a concentration in Mach
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>https://crherlihy.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://crherlihy.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
@@ -64,15 +73,6 @@ Prior to UMD, I completed my MS in Computer Science with a concentration in Mach
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://crherlihy.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://crherlihy.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
