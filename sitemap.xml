@@ -119,15 +119,6 @@
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/ethereum/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://crherlihy.github.io/project/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -147,7 +138,33 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/adversarial-filtering/</loc>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/algorithmic-fairness/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/annotation-artifacts/</loc>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -166,6 +183,15 @@
     
       <loc>https://crherlihy.github.io/tags/blockchain/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/clinical-informatics/</loc>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,15 +244,6 @@
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/fairness/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://crherlihy.github.io/tags/feature-engineering/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -245,26 +262,8 @@
     
     <url>
     
-      <loc>https://crherlihy.github.io/tags/health-informatics/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://crherlihy.github.io/tags/healthcare/</loc>
       <lastmod>2021-06-14T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://crherlihy.github.io/tags/healthcare-informatics/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,6 +325,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/multi-armed-bandits/</loc>
+      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/multimodal-information/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -335,8 +343,17 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/natural-language-inference-nli/</loc>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/nlp/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -345,7 +362,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/python/</loc>
-      <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
