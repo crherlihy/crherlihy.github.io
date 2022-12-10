@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication/nrmab/</loc>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/publication/fair_rmab/</loc>
       <lastmod>2021-06-14T00:00:00-04:00</lastmod>
     </url>
@@ -85,7 +93,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/1/</loc>
-      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -95,6 +103,15 @@
     
       <loc>https://crherlihy.github.io/publication_types/3/</loc>
       <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/act-2019/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -129,7 +146,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/</loc>
-      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,6 +155,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -244,6 +262,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/externalities/</loc>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/feature-engineering/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -262,8 +289,17 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/graphs/</loc>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/healthcare/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,7 +362,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/multi-armed-bandits/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -362,7 +398,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/python/</loc>
-      <lastmod>2021-06-02T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -371,7 +407,16 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/resource-allocation/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/resource-allocation-over-networks/</loc>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,7 +425,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/restless-bandits/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -416,7 +461,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/sequential-decision-making/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -426,6 +471,15 @@
     
       <loc>https://crherlihy.github.io/tags/smart-contract/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/spillover-effects/</loc>
+      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

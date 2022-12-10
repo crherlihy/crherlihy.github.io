@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spillover effects on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/tags/spillover-effects/</link>
+    <description>Recent content in spillover effects on Christine Herlihy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://crherlihy.github.io/tags/spillover-effects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Networked Restless Bandits with Positive Externalities</title>
+      <link>https://crherlihy.github.io/publication/nrmab/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/publication/nrmab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

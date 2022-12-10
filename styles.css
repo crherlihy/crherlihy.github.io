@@ -23,15 +23,15 @@
  **************************************************/
 
 html {
-  font-family: 'Merriweather', sans-serif;
-  font-size: 14px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 14.5px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 
 @media screen and (min-width: 58em) {
   html {
-  font-size: 15px;
+  font-size: 16px;
 }
 }
 
@@ -124,14 +124,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
 }
 
 img,
@@ -387,7 +387,7 @@ small,
 }
 
 .form-control:focus {
-  border-color: hsl(181, 100%, 41%);
+  border-color: hsl(176, 59%, 48%);
   box-shadow: 0 0 0 .2rem hsl(339, 90%, 78%);
 }
 
@@ -609,7 +609,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   font-size: 3rem;
   text-align: center;
 }
@@ -922,7 +922,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
 }
 
 .middot-divider {
@@ -1171,11 +1171,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: hsl(181, 100%, 41%) !important;
+  border-color: hsl(176, 59%, 48%) !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: hsl(181, 100%, 41%) !important;
+  background-color: hsl(176, 59%, 48%) !important;
 }
 
 /*************************************************
@@ -1494,13 +1494,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: hsl(181, 100%, 41%);
-  background: hsl(181, 100%, 41%);
+  border-color: hsl(176, 59%, 48%);
+  background: hsl(176, 59%, 48%);
 }
 
 .btn-outline-primary {
-  border-color: hsl(181, 100%, 41%);
-  color: hsl(181, 100%, 41%);
+  border-color: hsl(176, 59%, 48%);
+  color: hsl(176, 59%, 48%);
 }
 
 .btn-primary:hover,
@@ -1508,7 +1508,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: hsl(181, 100%, 41%);
+  background: hsl(176, 59%, 48%);
 }
 
 .btn-outline-light:hover,
@@ -1521,8 +1521,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: hsl(181, 100%, 41%);
-  border-color: hsl(181, 100%, 41%);
+  background-color: hsl(176, 59%, 48%);
+  border-color: hsl(176, 59%, 48%);
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1533,8 +1533,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: hsl(181, 100%, 41%);
-  border-color: hsl(181, 100%, 41%);
+  background-color: hsl(176, 59%, 48%);
+  border-color: hsl(176, 59%, 48%);
 }
 
 .dark .btn-outline-primary:hover {
@@ -1603,7 +1603,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 14px;
+  font-size: 14.5px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
@@ -1691,12 +1691,12 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-brand {
   font-weight: bold;
   font-size: 1.2em;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.87);
 }
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.87);
   background-color: transparent;
 }
 
@@ -1930,7 +1930,7 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: hsl(181, 100%, 41%);
+  border-color: hsl(176, 59%, 48%);
   box-shadow: 0 0 0 3px hsl(339, 90%, 78%);
 }
 
@@ -1996,7 +1996,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   background-color: transparent;
 }
 
@@ -2005,7 +2005,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   background-color: transparent;
 }
 
@@ -2122,7 +2122,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   text-decoration: none;
 }
 
@@ -2135,7 +2135,7 @@ ul.toc-top {
 }
 
 .anchorjs-link:hover {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   text-decoration: none;
 }
 
@@ -2160,7 +2160,7 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: hsl(181, 100%, 41%);
+  border-color: hsl(176, 59%, 48%);
   box-shadow: 0 0 0 .2rem hsl(170, 95%, 93%);
 }
 
@@ -2193,7 +2193,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: hsl(181, 100%, 41%);
+  background-color: hsl(176, 59%, 48%);
 }
 
 .dark table table {
@@ -2246,7 +2246,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: hsl(181, 100%, 41%);
+  color: hsl(176, 59%, 48%);
   border-bottom: solid 1px transparent;
 }
 
