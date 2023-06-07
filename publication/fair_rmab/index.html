@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Restless and collapsing bandits are commonly used to model constrained resource allocation in settings featuring arms with action-dependent transition probabilities, such as allocating health interventions among patients (Whittle, 1988; Mate et al., 2020). However, state-of-the-art Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it (Mate et al., 2021). Additionally, their optimality guarantees only apply when arms are indexable and threshold-optimal. We demonstrate that the incorporation of hard fairness constraints necessitates the coupling of arms, which undermines the tractability, and by extension, indexability of the problem. We then introduce `ProbFair`, a probabilistically fair stationary policy that maximizes total expected reward and satisfies the budget constraint, while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among obstructive sleep apnea (OSA) patients, as well as simulations on a broader class of synthetic transition matrices.">
+  <meta name="description" content="Restless and collapsing bandits are often used to model budget-constrained resource allocation in settings where arms have action-dependent transition probabilities, such as the allocation of health interventions among patients. However, SOTA Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it. We thus introduce ProbFair, a probabilistically fair policy that maximizes total expected reward and satisfies the budget constraint while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among  patients, as well as on a broader class of synthetic transition matrices. We find that ProbFair preserves utility while providing fairness guarantees.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://crherlihy.github.io/publication/fair_rmab/">
@@ -123,7 +123,7 @@
   <meta property="og:site_name" content="Christine Herlihy">
   <meta property="og:url" content="https://crherlihy.github.io/publication/fair_rmab/">
   <meta property="og:title" content="Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting | Christine Herlihy">
-  <meta property="og:description" content="Restless and collapsing bandits are commonly used to model constrained resource allocation in settings featuring arms with action-dependent transition probabilities, such as allocating health interventions among patients (Whittle, 1988; Mate et al., 2020). However, state-of-the-art Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it (Mate et al., 2021). Additionally, their optimality guarantees only apply when arms are indexable and threshold-optimal. We demonstrate that the incorporation of hard fairness constraints necessitates the coupling of arms, which undermines the tractability, and by extension, indexability of the problem. We then introduce `ProbFair`, a probabilistically fair stationary policy that maximizes total expected reward and satisfies the budget constraint, while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among obstructive sleep apnea (OSA) patients, as well as simulations on a broader class of synthetic transition matrices."><meta property="og:image" content="https://crherlihy.github.io/img/cherlihy_pic.png">
+  <meta property="og:description" content="Restless and collapsing bandits are often used to model budget-constrained resource allocation in settings where arms have action-dependent transition probabilities, such as the allocation of health interventions among patients. However, SOTA Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it. We thus introduce ProbFair, a probabilistically fair policy that maximizes total expected reward and satisfies the budget constraint while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among  patients, as well as on a broader class of synthetic transition matrices. We find that ProbFair preserves utility while providing fairness guarantees."><meta property="og:image" content="https://crherlihy.github.io/img/cherlihy_pic.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2021-06-14T00:00:00-04:00">
@@ -452,6 +452,14 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/crherlihy/prob_fair_rmab" target="_blank" rel="noopener">
+  Code
+</a>
+
 
 
 
@@ -477,7 +485,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Restless and collapsing bandits are commonly used to model constrained resource allocation in settings featuring arms with action-dependent transition probabilities, such as allocating health interventions among patients (Whittle, 1988; Mate et al., 2020). However, state-of-the-art Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it (Mate et al., 2021). Additionally, their optimality guarantees only apply when arms are indexable and threshold-optimal. We demonstrate that the incorporation of hard fairness constraints necessitates the coupling of arms, which undermines the tractability, and by extension, indexability of the problem. We then introduce <code>ProbFair</code>, a probabilistically fair stationary policy that maximizes total expected reward and satisfies the budget constraint, while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among obstructive sleep apnea (OSA) patients, as well as simulations on a broader class of synthetic transition matrices.</p>
+    <p class="pub-abstract" itemprop="text">Restless and collapsing bandits are often used to model budget-constrained resource allocation in settings where arms have action-dependent transition probabilities, such as the allocation of health interventions among patients. However, SOTA Whittle-index-based approaches to this planning problem either do not consider fairness among arms, or incentivize fairness without guaranteeing it. We thus introduce ProbFair, a probabilistically fair policy that maximizes total expected reward and satisfies the budget constraint while ensuring a strictly positive lower bound on the probability of being pulled at each timestep. We evaluate our algorithm on a real-world application, where interventions support continuous positive airway pressure (CPAP) therapy adherence among  patients, as well as on a broader class of synthetic transition matrices. We find that ProbFair preserves utility while providing fairness guarantees.</p>
     
 
     
@@ -488,8 +496,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -538,6 +546,8 @@
   <a class="badge badge-light" href="/tags/multi-armed-bandits/">multi-armed bandits</a>
   
   <a class="badge badge-light" href="/tags/python/">python</a>
+  
+  <a class="badge badge-light" href="/tags/kdd-2023/">KDD 2023</a>
   
 </div>
 
