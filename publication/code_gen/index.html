@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="CS PhD Student">
+  <meta name="description" content="Recent claims about the impressive abilities of large language models (LLMs) are often supported by evaluating publicly available benchmarks. Since LLMs train on wide swaths of the internet, this practice raises concerns of data contamination, i.e., evaluating on examples that are explicitly or implicitly included in the training data. Data contamination remains notoriously challenging to measure and mitigate, even with partial attempts like controlled experimentation of training data, canary strings, or embedding similarities. In this work, we conduct the first thorough longitudinal analysis of data contamination in LLMs by using the natural experiment of training cutoffs in GPT models to look at benchmarks released over time. Specifically, we consider two code/mathematical problem-solving datasets, Codeforces and Project Euler, and find statistically significant trends among LLM pass rate vs. GitHub popularity and release date that provide strong evidence of contamination. By open-sourcing our dataset, raw results, and evaluation framework, our work paves the way for rigorous analyses of data contamination in modern models. We conclude with a discussion of best practices and future steps for publicly releasing benchmarks in the age of LLMs that train on webscale data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="">
+  <link rel="alternate" hreflang="en-us" href="https://crherlihy.github.io/publication/code_gen/">
 
   
 
@@ -106,7 +106,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://crherlihy.github.io/publication/code_gen/">
 
   
   
@@ -121,19 +121,21 @@
   <meta property="twitter:creator" content="@crherlihy">
   
   <meta property="og:site_name" content="Christine Herlihy">
-  <meta property="og:url" content="">
-  <meta property="og:title" content="404 Page not found | Christine Herlihy">
-  <meta property="og:description" content="CS PhD Student"><meta property="og:image" content="https://crherlihy.github.io/img/cherlihy_pic.png">
+  <meta property="og:url" content="https://crherlihy.github.io/publication/code_gen/">
+  <meta property="og:title" content="Data Contamination Through the Lens of Time | Christine Herlihy">
+  <meta property="og:description" content="Recent claims about the impressive abilities of large language models (LLMs) are often supported by evaluating publicly available benchmarks. Since LLMs train on wide swaths of the internet, this practice raises concerns of data contamination, i.e., evaluating on examples that are explicitly or implicitly included in the training data. Data contamination remains notoriously challenging to measure and mitigate, even with partial attempts like controlled experimentation of training data, canary strings, or embedding similarities. In this work, we conduct the first thorough longitudinal analysis of data contamination in LLMs by using the natural experiment of training cutoffs in GPT models to look at benchmarks released over time. Specifically, we consider two code/mathematical problem-solving datasets, Codeforces and Project Euler, and find statistically significant trends among LLM pass rate vs. GitHub popularity and release date that provide strong evidence of contamination. By open-sourcing our dataset, raw results, and evaluation framework, our work paves the way for rigorous analyses of data contamination in modern models. We conclude with a discussion of best practices and future steps for publicly releasing benchmarks in the age of LLMs that train on webscale data."><meta property="og:image" content="https://crherlihy.github.io/img/cherlihy_pic.png">
   <meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2023-10-16T00:00:00-04:00">
   
+  <meta property="article:modified_time" content="2023-10-16T00:00:00-04:00">
+  
+
   
 
   
 
-  
-
-  <title>404 Page not found | Christine Herlihy</title>
+  <title>Data Contamination Through the Lens of Time | Christine Herlihy</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
@@ -289,66 +291,284 @@
   </div>
 </nav>
 
-<div class="container">
-
-  <h1>Page not found</h1>
-  <p>Perhaps you were looking for one of these?</p>
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-  
 
-  
-  
-  <h2>Publications</h2>
-  
-  <ul>
-    <li><a href="/publication/code_gen/">Data Contamination Through the Lens of Time</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/nrmab/">Networked Restless Bandits with Positive Externalities</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/fair_rmab/">Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/mednli/">MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/semanticmodels/">A Compositional Framework for Scientific Model Augmentation</a></li>
-  </ul>
-  
+
+
+
+
+
+
+
+
+
+
+
   
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Data Contamination Through the Lens of Time</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
 
   
   
-  <h2>Projects</h2>
   
-  <ul>
-    <li><a href="/project/claritynlp/">ClarityNLP</a></li>
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Manley Roberts</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Himanshu Thakur</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Christine Herlihy</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Colin White</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Samuel Dooley</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2023-10-16 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2023-10-16 00:00:00 -0400 EDT" itemprop="dateModified">
+      Monday, October 16, 2023
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Christine Herlihy">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Data%20Contamination%20Through%20the%20Lens%20of%20Time&amp;url=https%3a%2f%2fcrherlihy.github.io%2fpublication%2fcode_gen%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcrherlihy.github.io%2fpublication%2fcode_gen%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcrherlihy.github.io%2fpublication%2fcode_gen%2f&amp;title=Data%20Contamination%20Through%20the%20Lens%20of%20Time"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcrherlihy.github.io%2fpublication%2fcode_gen%2f&amp;title=Data%20Contamination%20Through%20the%20Lens%20of%20Time"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Data%20Contamination%20Through%20the%20Lens%20of%20Time&amp;body=https%3a%2f%2fcrherlihy.github.io%2fpublication%2fcode_gen%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   </ul>
-  
-  <ul>
-    <li><a href="/project/aske/">Automating Scientific Knowledge Extraction (ASKE)</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/project/blockchainforhealthrecords/">Blockchain Platform to Facilitate Patient-Directed Record Sharing</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/project/chestxray/">Chest X-ray Disease Diagnosis with Deep Convolutional Neural Networks</a></li>
-  </ul>
-  
+</div>
+
+
   
 
 </div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2310.10628" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2310.10628.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/abacusai/to-the-cutoff" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Recent claims about the impressive abilities of large language models (LLMs) are often supported by evaluating publicly available benchmarks. Since LLMs train on wide swaths of the internet, this practice raises concerns of data contamination, i.e., evaluating on examples that are explicitly or implicitly included in the training data. Data contamination remains notoriously challenging to measure and mitigate, even with partial attempts like controlled experimentation of training data, canary strings, or embedding similarities. In this work, we conduct the first thorough longitudinal analysis of data contamination in LLMs by using the natural experiment of training cutoffs in GPT models to look at benchmarks released over time. Specifically, we consider two code/mathematical problem-solving datasets, Codeforces and Project Euler, and find statistically significant trends among LLM pass rate vs. GitHub popularity and release date that provide strong evidence of contamination. By open-sourcing our dataset, raw results, and evaluation framework, our work paves the way for rigorous analyses of data contamination in modern models. We conclude with a discussion of best practices and future steps for publicly releasing benchmarks in the age of LLMs that train on webscale data.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            October, 2023
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/model-evaluation/">model evaluation</a>
+  
+  <a class="badge badge-light" href="/tags/large-language-models-llms/">large language models (LLMs)</a>
+  
+  <a class="badge badge-light" href="/tags/gpt/">GPT</a>
+  
+  <a class="badge badge-light" href="/tags/code-generation/">code generation</a>
+  
+  <a class="badge badge-light" href="/tags/natural-experiment/">natural experiment</a>
+  
+  <a class="badge badge-light" href="/tags/nlp/">nlp</a>
+  
+</div>
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
