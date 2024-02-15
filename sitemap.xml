@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication/disagg_eval/</loc>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/publication/code_gen/</loc>
       <lastmod>2023-10-16T00:00:00-04:00</lastmod>
     </url>
@@ -110,7 +118,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/3/</loc>
-      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,7 +216,16 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/algorithmic-fairness/</loc>
-      <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/allocative-harms/</loc>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,6 +314,15 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/disaggregated-evaluation/</loc>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/ehr/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -343,7 +369,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/healthcare/</loc>
-      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -397,7 +423,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/model-evaluation/</loc>
-      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -470,6 +496,15 @@
     
       <loc>https://crherlihy.github.io/tags/python/</loc>
       <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/quality-of-service-qos-harms/</loc>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
