@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/publication/query_underspec/</loc>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/publication/disagg_eval/</loc>
       <lastmod>2024-01-26T00:00:00-05:00</lastmod>
     </url>
@@ -109,7 +117,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/1/</loc>
-      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,7 +126,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/3/</loc>
-      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -161,8 +169,17 @@
     
     <url>
     
+      <loc>https://crherlihy.github.io/tags/facct-2024/</loc>
+      <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://crherlihy.github.io/tags/gpt/</loc>
-      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,6 +189,15 @@
     
       <loc>https://crherlihy.github.io/tags/kdd-2023/</loc>
       <lastmod>2021-06-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/podp/</loc>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,7 +215,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/publication_types/</loc>
-      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,6 +225,15 @@
     
       <loc>https://crherlihy.github.io/tags/</loc>
       <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/uai-2024/</loc>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,6 +324,15 @@
     
       <loc>https://crherlihy.github.io/tags/computational-phenotyping/</loc>
       <lastmod>2019-01-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/conversational-recommendation/</loc>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -396,7 +440,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/large-language-models-llms/</loc>
-      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -486,7 +530,7 @@
     <url>
     
       <loc>https://crherlihy.github.io/tags/nlp/</loc>
-      <lastmod>2023-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -505,6 +549,15 @@
     
       <loc>https://crherlihy.github.io/tags/quality-of-service-qos-harms/</loc>
       <lastmod>2024-01-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://crherlihy.github.io/tags/query-underspecification/</loc>
+      <lastmod>2024-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

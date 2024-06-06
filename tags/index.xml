@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>FAccT 2024</title>
+      <link>https://crherlihy.github.io/tags/facct-2024/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/facct-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GPT</title>
       <link>https://crherlihy.github.io/tags/gpt/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/gpt/</guid>
       <description></description>
@@ -45,6 +54,24 @@
       <pubDate>Mon, 14 Jun 2021 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/kdd-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PODP</title>
+      <link>https://crherlihy.github.io/tags/podp/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/podp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAI 2024</title>
+      <link>https://crherlihy.github.io/tags/uai-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/uai-2024/</guid>
       <description></description>
     </item>
     
@@ -135,6 +162,15 @@
       <pubDate>Mon, 21 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://crherlihy.github.io/tags/computational-phenotyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conversational recommendation</title>
+      <link>https://crherlihy.github.io/tags/conversational-recommendation/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/conversational-recommendation/</guid>
       <description></description>
     </item>
     
@@ -240,7 +276,7 @@
     <item>
       <title>large language models (LLMs)</title>
       <link>https://crherlihy.github.io/tags/large-language-models-llms/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/large-language-models-llms/</guid>
       <description></description>
@@ -330,7 +366,7 @@
     <item>
       <title>nlp</title>
       <link>https://crherlihy.github.io/tags/nlp/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/tags/nlp/</guid>
       <description></description>
@@ -351,6 +387,15 @@
       <pubDate>Fri, 26 Jan 2024 00:00:00 -0500</pubDate>
       
       <guid>https://crherlihy.github.io/tags/quality-of-service-qos-harms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>query underspecification</title>
+      <link>https://crherlihy.github.io/tags/query-underspecification/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://crherlihy.github.io/tags/query-underspecification/</guid>
       <description></description>
     </item>
     

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GPT on Christine Herlihy</title>
-    <link>https://crherlihy.github.io/tags/gpt/</link>
-    <description>Recent content in GPT on Christine Herlihy</description>
+    <title>query underspecification on Christine Herlihy</title>
+    <link>https://crherlihy.github.io/tags/query-underspecification/</link>
+    <description>Recent content in query underspecification on Christine Herlihy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Sat, 01 Jun 2024 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://crherlihy.github.io/tags/gpt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crherlihy.github.io/tags/query-underspecification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
       
       <guid>https://crherlihy.github.io/publication/query_underspec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Contamination Through the Lens of Time</title>
-      <link>https://crherlihy.github.io/publication/code_gen/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 -0400</pubDate>
-      
-      <guid>https://crherlihy.github.io/publication/code_gen/</guid>
       <description></description>
     </item>
     
